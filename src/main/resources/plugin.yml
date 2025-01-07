@@ -1,0 +1,9 @@
+name: EasyTeams
+version: '1.0'
+main: me.clearedspore.easyTeams.EasyTeams
+api-version: '1.21'
+softdepend: [PlaceholderAPI, TAB]
+commands:
+  team:
+    description: Team command
+    permission: easyteams.team
